@@ -247,3 +247,5 @@ Savollar va takliflar uchun issue oching yoki email yuboring.
 <!-- Update 16 -->
 
 <!-- Update 17 -->
+
+<!-- Update 18 -->
